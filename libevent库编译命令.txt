@@ -1,0 +1,8 @@
+1.VS2017下编译和配置libevent库：
+  https://blog.csdn.net/d137578736/article/details/104499194
+
+2.libevent库编命令：
+  nmake /f Makefile.nmake
+ 
+3.libevent编译清除命令：
+  nmake /f Makefile.nmake clean
